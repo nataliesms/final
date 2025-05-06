@@ -4,7 +4,8 @@ body{
 
 }
 
-.img{
- width:20vw ;
+img{
+ width: 20vw ;
 padding: 10px;
+max-height: 100px;
 }
